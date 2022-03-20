@@ -1,0 +1,8 @@
+name: ItemNamer
+version: '${project.version}'
+main: itemnamer.itemnamer.Main
+api-version: 1.18
+authors: [ Crusader420_ ]
+description: A plugin that allows you to add names to items
+commands:
+  rename:
